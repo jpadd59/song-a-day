@@ -117,4 +117,4 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run('NTkxNjUwMDgyMzc4NzQzODEy.XQz3NA.u_Py4Iqu9vdOSvU82VGpuyUzWRs')
+client.run('[BOT_TOKEN]')
